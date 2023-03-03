@@ -1,0 +1,40 @@
+.container-fluid{
+    background-color: #0065c3;
+    position: fixed;
+    top: 0;
+    left: 0;
+    
+}
+.nav-link.active{
+    color: white !important;
+    font-family: Sofia Pro Black, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 0.9em;
+
+}
+.nav-link.dropdown-toggle{
+    color: white;
+    font-weight: bold;
+    font-size: 0.9em;
+    font-family: Sofia Pro Black, Helvetica Neue, Helvetica, Arial, sans-serif;
+
+}
+.nav-link.dropdown-toggle:hover{
+    color: #fff;
+}
+.btn.btn-outline-success{
+    color: white;
+    display: inline-block;
+    font-size: 0.9em;
+    font-weight: bold;
+    padding: 0.4em 1.85em;
+    margin-right: 2em;
+    border: 2px solid #fff;
+    border-radius: 1.8em;
+    font-family: Sofia Pro Black, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.btn.btn-outline-success:hover{
+    color: #0065c3 !important;
+    background-color: #fff !important;
+    border: solid white;
+}
